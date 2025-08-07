@@ -1,7 +1,7 @@
 ### Me chamo Marcela Luiza. 👋
 
 - ⚡ Estudante de Sistemas de Informação
-- 🔭 Estudante de JavaScript | Java BackEnd
+
 <br>
          
 <div style="display: inline_block"><br>
